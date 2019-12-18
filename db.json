@@ -22,11 +22,5 @@
     "date": "26/06/1999",
     "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     "img": "assets/images/news/newsDemo.png"
-  },
-  {
-    "title": "Notizia 5",
-    "date": "26/06/2000",
-    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-    "img": "assets/images/news/newsDemo.png"
   }
 ]
