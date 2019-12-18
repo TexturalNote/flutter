@@ -28,41 +28,5 @@
     "date": "26/06/2000",
     "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     "img": "assets/images/news/newsDemo.png"
-  },
-  {
-    "title": "Notizia 6",
-    "date": "26/06/2010",
-    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-    "img": "assets/images/news/newsDemo.png"
-  },
-  {
-    "title": "Notizia 7",
-    "date": "26/06/2011",
-    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-    "img": "assets/images/news/newsDemo.png"
-  },
-  {
-    "title": "Notizia 8",
-    "date": "26/06/1996",
-    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-    "img": "assets/images/news/newsDemo.png"
-  },
-  {
-    "title": "Notizia 9",
-    "date": "27/06/1997",
-    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-    "img": "assets/images/news/newsDemo.png"
-  },
-  {
-    "title": "Notizia 10",
-    "date": "26/08/1998",
-    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-    "img": "assets/images/news/newsDemo.png"
-  },
-  {
-    "title": "Notizia 11",
-    "date": "26/06/1999",
-    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-    "img": "assets/images/news/newsDemo.png"
   }
 ]
